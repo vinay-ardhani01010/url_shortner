@@ -4,6 +4,7 @@
   "description": "Your Own URL Shortener which can be even hosted in Github and Gitlab Pages",
   "main": "index.js",
   "scripts": {
+    "start":"index.js",
     "build": "gulp build",
     "packit": "gulp packit"
   },
